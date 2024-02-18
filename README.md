@@ -11,6 +11,8 @@ Simple Springboot App
 - [Java](https://www.java.com/en/)
 
 ## Running process
+- Root source code are located in src/main/java/com/jvkstackmvn.jvkstack
+
 - After running the app, go to: [localhost:8080/api/v1/entities/](localhost:8080/api/v1/entities)
 
 - The code flow will begin from Controller -> Service -> Repository.
